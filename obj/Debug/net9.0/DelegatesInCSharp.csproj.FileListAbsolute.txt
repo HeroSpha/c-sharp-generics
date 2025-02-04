@@ -1,0 +1,14 @@
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\bin\Debug\net9.0\DelegatesInCSharp.exe
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\bin\Debug\net9.0\DelegatesInCSharp.deps.json
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\bin\Debug\net9.0\DelegatesInCSharp.runtimeconfig.json
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\bin\Debug\net9.0\DelegatesInCSharp.dll
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\bin\Debug\net9.0\DelegatesInCSharp.pdb
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.AssemblyInfoInputs.cache
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.AssemblyInfo.cs
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.dll
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\refint\DelegatesInCSharp.dll
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.pdb
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\DelegatesInCSharp.genruntimeconfig.cache
+C:\Users\Siphamandla.Ngwenya\Documents\Hero\Learning\DelegatesInCSharp\obj\Debug\net9.0\ref\DelegatesInCSharp.dll
